@@ -1,0 +1,13 @@
+# CSS:
+
+element.style {
+    color: red;
+    background: white;
+}
+
+
+
+#JavaScript:
+
+# printing the message
+alert('Hi, there!')
