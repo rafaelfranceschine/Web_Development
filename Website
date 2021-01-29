@@ -76,9 +76,9 @@
 			<br>
 
 			Gender:<br>
-			<input type="radio" name="gender">Male<br>
-			<input type="radio" name="gender">Female<br>
-			<input type="radio" name="gender">Other<br>
+			<input type="radio" name="gender" value="male">Male<br>
+			<input type="radio" name="gender" value="female">Female<br>
+			<input type="radio" name="gender" value="other">Other<br>
 			<br>
 
 			Pets:<br>
