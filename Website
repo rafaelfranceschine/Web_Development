@@ -5,17 +5,20 @@
 
 <html>
 
+    <!-- Title of the website head -->
 	<head>
 		<title>Website index</title>
 	</head>
 
 	<body>
 
+        <!-- Title of the website page -->
         <h1>[Website name] Index</h1>
 
         <p><a href="register.html">Register</a></p>
         <br>
 
+        <!-- List of items -->
         <ol>
             <li><strong>First image</strong>:</li>
             <a href="https://cdn.pixabay.com/photo/2015/03/26/09/47/sky-690293__340.jpg">
@@ -43,17 +46,20 @@
 
 <html>
 
+	<!-- Title of the website head -->
 	<head>
 		<title>Website register</title>
 	</head>
 
 	<body>
 
+		<!-- Title of the website page -->
 		<h1>[Website name] Register</h1>
 
 		<a href="index.html">Index</a><br>
 		<br>
 
+		<!-- Creating a forms -->
 		<form method="POST">
 			First name:<br>
 			<input type="text" name="firstname"><br>
@@ -87,7 +93,7 @@
 			<br>
 
 			Cars:<br>
-			<select>
+			<select name="car">
 				<option value="Uno" name="uno">Uno</option>
 				<option value="Palio" name="palio">Palio</option>
 				<option value="Golf" name="golf">Golf</option>
