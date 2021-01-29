@@ -1,49 +1,101 @@
-# INDEX PAGE ---------------------------------------------------------------------------------------------------
+# ----------------------------------------------------------- INDEX PAGE -----------------------------------------------------------
 
 <!DOCTYPE html>
 
 <html>
+
 	<head>
 		<title>Website index</title>
 	</head>
+
 	<body>
+
         <h1>[Website name] Index</h1>
-        <p>
-            <a href="register.html">Register</a><br>
-        </p>
+
+        <p><a href="register.html">Register</a></p>
+        <br>
+
         <ol>
             <li><strong>First image</strong>:</li>
             <a href="https://cdn.pixabay.com/photo/2015/03/26/09/47/sky-690293__340.jpg">
-                <img src="https://cdn.pixabay.com/photo/2015/03/26/09/47/sky-690293__340.jpg" alt="An image" height="250" width=""><br><br>
-            </a>
+                <img src="https://cdn.pixabay.com/photo/2015/03/26/09/47/sky-690293__340.jpg" alt="An image" height="250" width="">
+            </a><br>
+            <br>
+
             <li><strong>Second image</strong>:</li>
             <a href="https://images.pexels.com/photos/414102/pexels-photo-414102.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500">
-                <img src="https://images.pexels.com/photos/414102/pexels-photo-414102.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="An image" height="250" width=""><br><br>
-            </a>
+                <img src="https://images.pexels.com/photos/414102/pexels-photo-414102.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="An image" height="250" width="">
+            </a><br>
+            <br>
+
         </ol>
+        <br>
+
 	</body>
 </html>
 
 
 
-# REGISTER PAGE ---------------------------------------------------------------------------------------------------
+# ----------------------------------------------------------- REGISTER PAGE -----------------------------------------------------------
 
 <!DOCTYPE html>
 
 <html>
+
 	<head>
 		<title>Website register</title>
 	</head>
-	<body>
-		<h1>[Website name] Register</h1>
-		<a href="index.html">Index</a><br><br>
-		<form>
-			<label>Insert your complete name:<label><br>
-			<input type="text"><br><br>
-			<label>Insert your email:<label><br>
-			<input type="text"><br><br>
 
-			<input type="submit" value="Register">
+	<body>
+
+		<h1>[Website name] Register</h1>
+
+		<a href="index.html">Index</a><br>
+		<br>
+
+		<form method="POST">
+			First name:<br>
+			<input type="text" name="firstname"><br>
+			<br>
+
+			Last name:<br>
+			<input type="text" name="lastname"><br>
+			<br>
+
+			Email:<br>
+			<input type="email" name="email" required><br>
+			<br>
+
+			Password:<br>
+			<input type="password" name="password" min=5><br>
+			<br>
+
+			Birth date:<br>
+			<input type="date" name="birthdate"><br>
+			<br>
+
+			Gender:<br>
+			<input type="radio" name="gender">Male<br>
+			<input type="radio" name="gender">Female<br>
+			<input type="radio" name="gender">Other<br>
+			<br>
+
+			Pets:<br>
+			<input type="checkbox" name="dogs">Dog(s)<br>
+			<input type="checkbox" name="cats">Cat(s)<br>
+			<br>
+
+			Cars:<br>
+			<select>
+				<option value="Uno" name="uno">Uno</option>
+				<option value="Palio" name="palio">Palio</option>
+				<option value="Golf" name="golf">Golf</option>
+				<option value="Gol" name="gol">Gol</option>
+			</select><br>
+			<br>
+
+			<input type="submit" value="Subscribe!">
+			<input type="reset" value="Clear">
 		</form>
 	</body>
 </html>
