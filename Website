@@ -1,0 +1,49 @@
+# INDEX PAGE ---------------------------------------------------------------------------------------------------
+
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>Website index</title>
+	</head>
+	<body>
+        <h1>[Website name] Index</h1>
+        <p>
+            <a href="register.html">Register</a><br>
+        </p>
+        <ol>
+            <li><strong>First image</strong>:</li>
+            <a href="https://cdn.pixabay.com/photo/2015/03/26/09/47/sky-690293__340.jpg">
+                <img src="https://cdn.pixabay.com/photo/2015/03/26/09/47/sky-690293__340.jpg" alt="An image" height="250" width=""><br><br>
+            </a>
+            <li><strong>Second image</strong>:</li>
+            <a href="https://images.pexels.com/photos/414102/pexels-photo-414102.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500">
+                <img src="https://images.pexels.com/photos/414102/pexels-photo-414102.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="An image" height="250" width=""><br><br>
+            </a>
+        </ol>
+	</body>
+</html>
+
+
+
+# REGISTER PAGE ---------------------------------------------------------------------------------------------------
+
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>Website register</title>
+	</head>
+	<body>
+		<h1>[Website name] Register</h1>
+		<a href="index.html">Index</a><br><br>
+		<form>
+			<label>Insert your complete name:<label><br>
+			<input type="text"><br><br>
+			<label>Insert your email:<label><br>
+			<input type="text"><br><br>
+
+			<input type="submit" value="Register">
+		</form>
+	</body>
+</html>
