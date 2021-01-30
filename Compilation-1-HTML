@@ -11,11 +11,13 @@
 	
     <!--Creating the body of the website-->
 	<body>
-    
+	
+		
+    		<!--Creating the structure-->
         	<h1>Header</h>
     
         	<p>Paragraph</p><br>
-			<br>
+		<br>
         
         	<ol>Ordered list</ol>
         	<ul>Unordered list</ul>
