@@ -2,19 +2,23 @@
 
 <html>
 
-    <!--Definining the head of the website-->
+	<!--Creating the head of the website-->
 	<head>
+	
 		<title></title>
+		
 	</head>
-    
+	
+    <!--Creating the body of the website-->
 	<body>
     
-        <h1>Header</h>
+        	<h1>Header</h>
     
-        <p>Paragraph</p>
+        	<p>Paragraph</p><br>
+			<br>
         
-        <ol>Ordered list</ol>
-        <ul>Unordered list</ul>
+        	<ol>Ordered list</ol>
+        	<ul>Unordered list</ul>
         
 	</body>
     
