@@ -23,17 +23,45 @@
 # Editing style in CSS:
 # -----------------------------------------------------------------------------------------------------------
 
-Selector, Selector {
+# Basic
+# --------------------------------
+
+Selector {
 	Property: value;
 }
 
-p{
-	color:;
+
+# Colors
+# --------------------------------
+
+Selector {
+	color: rgba();
 }
 
-h1, h2, h3, h4, h5{
-	background-color:;
-	color:;
-	text-align:;
-	font-size:;
+
+# Selectors
+# --------------------------------
+
+.class
+#id
+*
+element
+element, element
+element element
+element > element
+element + element
+:hover
+:last-child
+:first-child
+
+
+# Text and fonts
+# --------------------------------
+
+Selector {
+	font-family: value;
+	font-style: value;
+	font-size: value;
+	font-weight: value;
+	line-height: value;
 }
