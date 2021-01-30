@@ -16,7 +16,7 @@
 # Referencing CSS in HTML:
 # -----------------------------------------------------------------------------------------------------------
 
-<link rel="link" type="text/css" href="style.css">
+<link rel="link" type="text/css" href="path">
 
 
 
