@@ -1,1 +1,21 @@
+<!DOCTYPE html>
 
+<html>
+
+    <!--Definining the head of the website-->
+	<head>
+		<title></title>
+	</head>
+    
+	<body>
+    
+        <h1>Header</h>
+    
+        <p>Paragraph</p>
+        
+        <ol>Ordered list</ol>
+        <ul>Unordered list</ul>
+        
+	</body>
+    
+</html>
