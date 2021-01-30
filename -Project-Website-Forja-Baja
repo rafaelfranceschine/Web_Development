@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+
+<html>
+
+    <!-- Title of the website head -->
+	<head>
+
+		<title>Equipe Forja Baja SAE</title>
+
+	</head>
+
+	<body>
+
+		<!-- Style of the website page -->
+		<body style="background-color:white">
+
+        <!-- Title of the website page -->
+        <h1>Equipe Forja Baja SAE</h1>
+        <hr color="grey">
+
+        <img src="https://scontent.fsdu12-1.fna.fbcdn.net/v/t1.0-9/s960x960/64308771_2654304504640135_3143747092363608064_o.png?_nc_cat=109&ccb=2&_nc_sid=e3f864&_nc_eui2=AeEglKFl8pVXtS5zWUNdJ3oOmE6qmbna9fCYTqqZudr18GE3zxRMg5pRfBeP6syiYRIBIkd5huLvAha1-U_H4kDu&_nc_ohc=gr9-nR5-xN4AX_why57&_nc_ht=scontent.fsdu12-1.fna&_nc_tp=30&oh=8541bd7c35d117d34eb2b87302b5182e&oe=603A2FA1" height="200" width="">
+        <img src="https://scontent.fymy1-2.fna.fbcdn.net/v/t1.0-9/p720x720/90071871_3455197507884160_8318833314223882240_o.jpg?_nc_cat=105&ccb=2&_nc_sid=9e2e56&_nc_ohc=aBxMu3pd2QcAX9ggbQT&_nc_ht=scontent.fymy1-2.fna&tp=6&oh=9ddf648ba2904f28bfff2186060ff27e&oe=602057FF" height="200" width="">
+        <img src="https://scontent.fymy1-2.fna.fbcdn.net/v/t1.0-9/s720x720/94882392_3603937689676807_4027730509537738752_o.jpg?_nc_cat=101&ccb=2&_nc_sid=2d5d41&_nc_ohc=xbxYvajCTXwAX-pyTWX&_nc_ht=scontent.fymy1-2.fna&tp=7&oh=d15d643bca64ba4c0dc4c02acd09e59f&oe=601E9DFD" height="200" width=""><br><br>
+
+        <p>Descrição da equipe</p><br>
+
+        <h3>Links:</h3>
+        <ol>
+        	<h4><li><a href="drive.html" target="new">Drive da equipe</a></li></h4>
+        	<h4><li><a href="montagemgeral.html" target="new">Montagem geral</a></li></h4>
+        	<h4><li><a href="planilhadehorarios.html" target="new">Planilha de horários</a></li></h4>
+        	<h4><li><a href="solicitacoesdeanalise.html" target="new">Solicitações de análise</a></li></h4>
+        </ol>
+        <br>
+
+        
+        <h3>Subdivisões</h3>
+        <ol>
+        
+        <h4><li><a href="administrativo.html">Administrativo</a></li></h4><br>
+        <img src="https://i0.wp.com/laboratorio360.com.br/wp-content/uploads/2019/01/gest%C3%A3o-da-qualidade.png?resize=780%2C405&ssl=1" height="100" width=""><br>
+        <br>
+
+        <h4><li><a href="marketing.html">Marketing</a></li><br></h4>
+        <img src="https://www.agenciaopera.com.br/wp-content/uploads/2019/08/estrategia-marketing-digital.png" height="100" width=""><br>
+        <br>
+
+        <h4><li><a href="calculoestrutural.html">Cálculo Estrutural</a></li></h4><br>
+        <img src="https://ensus.com.br/wp-content/uploads/2016/01/Elementos-Finitos-Oque-e%CC%81-Quando-utilizar-Quais-sa%CC%83o-os-benefi%CC%81cios.jpg" height="100" width=""><br>
+        <br>
+
+        <h4><li><a href="suspensaoedirecao.html">Suspensão e Direção</a></li></h4><br>
+        <img src="https://static.kbb.com.br/Uploads/ResearchTools/News/1259/f09e7fbd-fa1f-4415-a69b-faadd4b32877_1365x1024.jpg" height="100" width=""><br>
+        <br>
+
+        <h4><li><a href="designestrutural.html">Design Estrutural</a></li></h4><br>
+        <img src="https://www.scalevp.com/sites/default/files/designbig.jpg" height="100" width=""><br>
+        <br>
+
+        <h4><li><a href="powertrain.html">Powertrain</a></li></h4><br>
+        <img src="https://www.avl.com/documents/10138/885945/Powertrain_Design_Passenger_Cars_Titel.png/fc271c4c-6ac5-44e2-bc81-a23752641505?t=1400663575000&width=1024&height=551" height="100" width=""><br>
+        <br>
+
+        <h4><li><a href="freio.html">Freio</a></li></h4><br>
+        <img src="https://www.lionsprotecaoveicular.com.br/wp-content/uploads/2018/10/freio-do-carro.jpg" height="100" width=""><br>
+        <br>
+
+        <h4><li><a href="eletrica.html">Elétrica e Eletrônica</a></li></h4><br>
+        <img src="https://mapa-da-obra-producao.s3.amazonaws.com/wp-content/uploads/2017/09/instala%C3%A7%C3%A3o-el%C3%A9trica.jpg" height="100" width=""><br>
+        <br>
+        </ol>
+
+	</body>
+</html>
