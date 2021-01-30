@@ -23,16 +23,17 @@
 # Editing style in CSS:
 # -----------------------------------------------------------------------------------------------------------
 
-Selector {
+Selector, Selector {
 	Property: value;
 }
 
-h1{
-	background-color:;
+p{
 	color:;
 }
 
-p{
+h1, h2, h3, h4, h5{
 	background-color:;
 	color:;
+	text-align:;
+	font-size:;
 }
