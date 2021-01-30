@@ -1,4 +1,38 @@
-element.style {
-    color: red;
-    background: white;
+
+# Editing style directly in HTML:
+# -----------------------------------------------------------------------------------------------------------
+# Obs.: not useful for editing styles of multiples pages
+
+<selector style="property:value">
+
+<style>
+    Selector {
+        Property: value
+    }
+</style>
+
+
+
+# Referencing CSS in HTML:
+# -----------------------------------------------------------------------------------------------------------
+
+<link rel="link" type="text/css" href="style.css">
+
+
+
+# Editing style in CSS:
+# -----------------------------------------------------------------------------------------------------------
+
+Selector {
+	Property: value;
+}
+
+h1{
+	background-color:;
+    color:;
+}
+
+p{
+	background-color:;
+    color:;
 }
